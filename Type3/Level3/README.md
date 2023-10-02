@@ -1,3 +1,3 @@
-# Type 3 - Medium
+# Type 3 - Level 3 - Hard
 ## Problem No:  Problem Name
 problem Description
