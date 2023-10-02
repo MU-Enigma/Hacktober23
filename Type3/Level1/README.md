@@ -1,10 +1,4 @@
 # Type 3 - Level 1 - Easy
-## Problem No:  Problem Name
-problem Description
-```
-Example 1:
-
-```
 
 ## Problem 1: Roman to Integer
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
