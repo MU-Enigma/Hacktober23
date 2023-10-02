@@ -55,4 +55,45 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 Constraints:
 
 - `1 <= s.length <= 15`
--  `s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').`
+- `s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').`
+
+<br>
+  
+## Problem 2: Pascal's triangle
+Given an integer numRows, return the first numRows of Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+<br>
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
+
+<br>
+
+```
+Example 1:
+
+Input: numRows = 5
+Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+or
+Output: [1]
+        [1,1]
+        [1,2,1]
+        [1,3,3,1]
+        [1,4,6,4,1]
+```
+
+```
+Example 2:
+
+Input: numRows = 1
+Output: [[1]]
+```
+<br>
+
+Constraints:
+- `1 <= numRows <= 30`
+
+
+
+
