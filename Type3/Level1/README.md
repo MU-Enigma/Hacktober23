@@ -109,7 +109,7 @@ Constraints:
 - The input string can contain spaces or other characters, but they will be ignored by the program.
 ```
 
-# Example inputs and outputs:
+Example inputs and outputs:
 
 Input: 
 ```
