@@ -1,6 +1,5 @@
 # Type 3 - Level 2 - Medium
-## Problem No:1 Letter Combinations of a phone number
-problem Description
+## Problem 1: Letter Combinations of a phone number
 Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
 
 A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
@@ -25,4 +24,31 @@ Constraints:
 
 0 <= digits.length <= 4
 digits[i] is a digit in the range ['2', '9'].
+
 ```
+## Problem 2: Container With Most Water
+You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return the maximum amount of water a container can store.
+
+Notice that you may not slant the container.
+
+```
+Example 1:
+<img width="635" alt="Screenshot 2023-10-03 at 9 07 06 PM" src="https://github.com/MU-Enigma/Hacktober23/assets/115718081/dcd54f63-cbc6-4470-b236-42ad27b380c0">
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+
+Example 2:
+Input: height = [1,1]
+Output: 1
+
+Constraints:
+
+n == height.length
+2 <= n <= 105
+0 <= height[i] <= 104
+
