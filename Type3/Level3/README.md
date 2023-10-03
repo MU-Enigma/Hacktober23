@@ -108,3 +108,64 @@ For each test case, output a single line containing two space-separated integers
 4 4
 ```
 </br>
+
+Certainly! Here's the problem statement presented in a clear format:
+
+## Problem 3: Cultivating Vinland
+
+Thorfinn is a trader and explorer searching for the elusive land known as Vinland. Upon discovering Vinland, he decides to settle there and start cultivating the land. Vinland is a rectangular piece of land that can be divided into an N by M grid of square patches, each with a unit side length. However, not all patches of land are fertile, and crops can only be grown on fertile patches. Therefore, the selection of land for cultivation must be done carefully.
+
+To protect the selected patches from animals, Thorfinn needs to build fences. Animals, located at a patch (i, j), can move up, down, right, or left, i.e., to (i − 1, j), (i + 1, j), (i, j − 1), or (i, j + 1). A patch is considered enclosed if no animals can enter it. If a patch of land is not completely enclosed, the crops will be destroyed by grazing animals, and the land will not yield any profit. Building a unit length of fence costs 1 silver coin, and a unit area of enclosed land will yield crops that can be sold for 4 silver coins. It is assumed that no animals are initially present on fertile land.
+
+As the only mathematician in Thorfinn's group, you are tasked with helping Thorfinn select the land to cultivate. Your goal is to choose one continuous piece of fertile land that yields the maximum profit (profit = crop earnings - cost of fencing).
+
+**Input Format:**
+
+The input consists of the following:
+- The first line contains three space-separated integers, N, M, and R. N and M denote the size of the land area, and R denotes the number of fertile patches in the land.
+- Then, R lines follow, each containing two integers i and j, indicating the positions of the fertile patches.
+
+**Output Format:**
+
+The output should contain a single integer representing the maximum profit that can be obtained.
+
+**Sample Test Cases:**
+
+**Input 1:**
+```
+5 5 7
+1 1
+2 1
+2 2
+2 4
+3 2
+3 4
+5 4
+```
+
+**Output 1:**
+```
+6
+```
+
+**Input 2:**
+```
+5 4 8
+1 1
+1 2
+1 3
+2 2
+4 3
+4 4
+5 3
+5 4
+```
+
+**Output 2:**
+```
+8
+```
+
+### Explanation for Testcase 1:
+
+
