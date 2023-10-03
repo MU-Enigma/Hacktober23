@@ -87,7 +87,7 @@ Output: [[1]]
 ```
 <br>
 
-## Problem 2 : Morse Code
+## Problem 3 : Morse Code
 
 Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment. Each character in the text is represented by a sequence of dots and dashes, which are called dits and dahs respectively. For example, the letter A is encoded as ·−, the letter B as −···, and the letter C as −·−·.
 
