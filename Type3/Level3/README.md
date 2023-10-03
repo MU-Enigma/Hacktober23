@@ -10,7 +10,7 @@ The first line contains an integer N, the total number of knobs. The next line c
 
 ```
 N
-A<sub>1</sub> A<sub>2</sub> . . . A<sub>N</sub>
+A₁ A₂ A₃
 ```
 
 Output Format:
