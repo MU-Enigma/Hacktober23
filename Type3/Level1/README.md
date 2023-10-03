@@ -140,7 +140,8 @@ Constraints:
 # Problem 4 : Password Strength Checker
 
 
-A password is like a key to your digital world. It protects your personal information, your online accounts, and your privacy. But not all passwords are created equal. Some are easy to guess, while others are hard to crack. How can you tell how secure your password is? That's where this program comes in handy. It takes a password as input and evaluates its strength based on four criteria:
+A password is like a key to your digital world. It protects your personal information, your online accounts, and your privacy. But not all passwords are created equal. Some are easy to guess, while others are hard to crack. How can you tell how secure your password is? That's where this program comes in handy. Write a program to check the strength of the password.
+ It takes a password as input and evaluates its strength based on four criteria:
 
 - **Length of the password**: The longer the password, the more combinations of characters it can have, and the harder it is to break. A password should have at least eight characters to be considered strong.
 - **Presence of both uppercase and lowercase letters**: A password that contains both uppercase and lowercase letters has more diversity and complexity than one that does not. A password should have at least one uppercase letter and one lowercase letter to be considered strong.
