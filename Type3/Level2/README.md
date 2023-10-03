@@ -37,7 +37,8 @@ Notice that you may not slant the container.
 
 ```
 Example 1:
-<img width="635" alt="Screenshot 2023-10-03 at 9 07 06 PM" src="https://github.com/MU-Enigma/Hacktober23/assets/115718081/dcd54f63-cbc6-4470-b236-42ad27b380c0">
+
+<img width="622" alt="Screenshot 2023-10-03 at 9 09 00 PM" src="https://github.com/MU-Enigma/Hacktober23/assets/115718081/ece4bcf2-2a82-432d-a731-04e7e74f7821">
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
 Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
