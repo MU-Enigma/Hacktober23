@@ -193,6 +193,69 @@ Output: Strong
 Input: H3ll0@!23
 Output: Very Strong
 ```
+</br>
+
+# Problem 5 - Ultimate Music Playlist
+
+Sarah is a music enthusiast who is planning to create the ultimate playlist for her road trip. She has a limited amount of storage space available on her music player, represented by X MB. She has a list of N songs, each with its size (S<sub>i</sub> MB) and rating (R<sub>i</sub>). Sarah wants to select a single song with the highest rating that can fit within her available storage space.
+
+**Input:**
+
+The input consists of the following:
+- The first line contains an integer N, the number of songs in Sarah's playlist.
+- The second line contains an integer X, representing the available storage space in MB.
+
+For each song, there are two lines:
+- The first line contains a floating-point number S<sub>i</sub>, the size of the song in MB.
+- The second line contains an integer R<sub>i</sub>, the rating of the song.
+
+**Output:**
+
+Output a single integer, which is the highest rating among the songs that Sarah can store on her music player without exceeding the available storage space.
+
+**Constraints:**
+
+- 1 ≤ N ≤ 10^5
+- 1 ≤ X ≤ 10^9
+- 0.1 ≤ S<sub>i</sub> ≤ 100.0 (song sizes in MB, rounded to one decimal place)
+- 1 ≤ R<sub>i</sub> ≤ 100 (song ratings)
+- X ≥ S<sub>i</sub> for at least one valid i
+
+Example 1:
+
+Input:
+
+```
+1 1
+1 1
+2 2
+```
+Output:
+
+```
+1
+```
+Example 2:
+
+```
+1 50
+2 100
+3 2
+```
+Output:
+```
+100
+```
+Example 3:
+```
+1 51
+3 100
+2 50
+```
+Output:
+```
+51
+```
 
 
 
