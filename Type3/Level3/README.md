@@ -37,6 +37,9 @@ Output:
 ```
 
 Constraints:
- 1 ≤   A<sub>N</sub> ≤ 105 and −106 ≤ A<sub>i</sub> ≤ 106
+ 
+ ```
+1 ≤ Aₙ ≤ 10⁵ and −10⁶ ≤ Aᵢ ≤ 10⁶
+```
  </br>
 
