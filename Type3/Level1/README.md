@@ -87,6 +87,52 @@ Output: [[1]]
 ```
 <br>
 
+## Problem 2 : Morse Code
+
+Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment. Each character in the text is represented by a sequence of dots and dashes, which are called dits and dahs respectively. For example, the letter A is encoded as ·−, the letter B as −···, and the letter C as −·−·.
+
+Write a program that takes a string as input and converts it into Morse code. The output should be a string of dots and dashes separated by spaces. The program should ignore any characters that are not letters or numbers in the input. The program should also use a slash (/) to separate words in the output.
+If you want to look up Morse code for any letter, number, punctuation or symbol, you can use this [Morse code chart](https://morsecode.world/international/morse2.html) or this [Morse code table](https://morsetranslate.com/chart).
+
+Input format:
+
+The input is a single line of text containing letters and/or numbers. The input may also contain spaces or other characters, but they will be ignored by the program.
+
+Output format:
+
+The output is a single line of text containing dots and dashes separated by spaces. The output should use a slash (/) to separate words. The output should end with a newline character.
+
+Constraints:
+
+```- The input string can have up to 100 characters.
+- The input string can contain uppercase or lowercase letters, but they will be treated as the same by the program.
+- The input string can contain spaces or other characters, but they will be ignored by the program.
+```
+
+# Example inputs and outputs:
+
+Input: 
+```
+Hello World
+```
+
+Output: 
+```
+···· · / −··· −·· −··· − / ·− −·· · / −··· −·· / −·· −\
+```
+
+Input: 
+```
+42 is the answer
+```
+
+Output:
+``` 
+··−− ·−·· / ·· ··· / − / ·− / −· / · / −· / ·· / ·− / −···
+```
+
+
+
 Constraints:
 - `1 <= numRows <= 30`
 
