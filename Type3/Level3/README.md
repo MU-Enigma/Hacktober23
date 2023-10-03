@@ -76,7 +76,7 @@ The input consists of the following:
 
 For each test case, output a single line containing two space-separated integers, which are the minimum values that the last entry in J1 and J2 can take, respectively.
 
-### Example 1
+**Example 1**
 
 **INPUT** :
 ```
@@ -90,7 +90,7 @@ For each test case, output a single line containing two space-separated integers
 11 8
 ```
 
-### Example 2:
+**Example 2:**
 
 **INPUT**:
 ```
@@ -109,8 +109,6 @@ For each test case, output a single line containing two space-separated integers
 ```
 </br>
 
-Certainly! Here's the problem statement presented in a clear format:
-
 ## Problem 3: Cultivating Vinland
 
 Thorfinn is a trader and explorer searching for the elusive land known as Vinland. Upon discovering Vinland, he decides to settle there and start cultivating the land. Vinland is a rectangular piece of land that can be divided into an N by M grid of square patches, each with a unit side length. However, not all patches of land are fertile, and crops can only be grown on fertile patches. Therefore, the selection of land for cultivation must be done carefully.
@@ -128,6 +126,15 @@ The input consists of the following:
 **Output Format:**
 
 The output should contain a single integer representing the maximum profit that can be obtained.
+
+**Constraints**:
+• All input values are integers
+
+• 1 ≤ N × M ≤ 10<sup>6</sup>
+
+• 1 ≤ N, M ≤ 10<sup>6</sup>
+
+• 0 ≤ R ≤ N × M
 
 **Sample Test Cases:**
 
@@ -166,6 +173,16 @@ The output should contain a single integer representing the maximum profit that 
 8
 ```
 
-### Explanation for Testcase 1:
+**Explanation for Testcase 1**:
+![](https://files.catbox.moe/hfirwh.png)
+
+The selected region uses fence of length 10 units includes an area of 4 sq. unit. Yielding a profit of `4 × 4 − 10 = 6`.
+
+**Explanation for Testcase 2**
+![](https://files.catbox.moe/doohl6.png)
+
+The selected region uses fence of length 8 units includes an area of 4 sq. unit. Yielding a profit of `4 × 4 − 8 = 8`.
+
+
 
 
