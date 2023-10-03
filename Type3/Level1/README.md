@@ -135,6 +135,63 @@ Output:
 
 Constraints:
 - `1 <= numRows <= 30`
+</br>
+
+# Problem 4 : Password Strength Checker
+
+
+A password is like a key to your digital world. It protects your personal information, your online accounts, and your privacy. But not all passwords are created equal. Some are easy to guess, while others are hard to crack. How can you tell how secure your password is? That's where this program comes in handy. It takes a password as input and evaluates its strength based on four criteria:
+
+- **Length of the password**: The longer the password, the more combinations of characters it can have, and the harder it is to break. A password should have at least eight characters to be considered strong.
+- **Presence of both uppercase and lowercase letters**: A password that contains both uppercase and lowercase letters has more diversity and complexity than one that does not. A password should have at least one uppercase letter and one lowercase letter to be considered strong.
+- **Presence of numbers**: A password that contains numbers adds another layer of difficulty for hackers, who may try to use common words or phrases as passwords. A password should have at least one number to be considered strong.
+- **Presence of symbols**: A password that contains symbols (such as !, @, #, etc.) makes it even more unpredictable and unique, as symbols are often not used in regular words or sentences. A password should have at least one symbol to be considered strong.
+
+The program assigns a level of strength to the password based on how many criteria it meets. The levels are as follows:
+
+- **Weak**: The password meets none or only one of the criteria.
+- **Average**: The password meets two of the criteria.
+- **Strong**: The password meets three of the criteria.
+- **Very Strong**: The password meets all four of the criteria.
+
+
+The program outputs the level of strength of the password in a single line.
+
+**Input Format**: 
+
+`A single line containing a password.`
+
+**Output Format**: 
+
+`A single line containing the level of strength of the password.`
+
+**Constraints**:
+```
+- The password should not contain any spaces or tabs.
+- The password should not be empty or null.
+```
+
+Example Inputs and Outputs:
+
+```
+Input: hello
+Output: Weak
+```
+
+```
+Input: Hello123
+Output: Average
+```
+
+```
+Input: Hello@123
+Output: Strong
+```
+
+```
+Input: H3ll0@!23
+Output: Very Strong
+```
 
 
 
