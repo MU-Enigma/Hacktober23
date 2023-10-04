@@ -5,7 +5,7 @@ tbd
 ## Problem Types
 ### Type 1
 - No Code
-- Design Logo for Events (to be specified)
+- Design Logo for forthcoming Enigma Events/Workshops
   
 ### Type 2
 - Low/Medium Code
