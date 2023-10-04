@@ -3,7 +3,7 @@
 Submission format each file must be labelled as : eventname + _ + username + .png/jpep, ex: LinuxLaunchpad_frzfishcustard.png in the appropriate folder
 
 ## Linux LaunchPad
-Workshop on Linux, WSL and VMs, with an introductory 1 hr talk on how internet protocols work
+Workshop on Linux, WSL and VMs, with an to introductory 1 hr talk on how internet protocols work
 
 ## The 410 Workshop
 A workshop that will act as an introduction web design and programming
