@@ -9,7 +9,7 @@ tbd
   
 ### Type 2
 - Low/Medium Code
--
+- Generate Music using AI music generators like MusicGen or songr.ai
 - Make a Commit to any other Enigma Github Repository
 
 ### Type 3
