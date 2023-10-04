@@ -9,7 +9,7 @@ Workshop on Linux, WSL and VMs, with an to introductory 1 hr talk on how interne
 A workshop that will act as an introduction web design and programming
 
 ## Alt+Tab
-An event where a series of speakers, mostly consisting of the OC of Enigma will each speak for a short period of tine regarding some CS passion personal to them, before switching to the next speaker
+An event where a series of speakers, mostly consisting of the OC of Enigma will each speak for a short period of time regarding some CS passion personal to them, before switching to the next speaker
 
 ## Game Genesis(GG)
 Workshop on Game development and a showcase of games developed by the GameDev subcommittee
