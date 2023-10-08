@@ -6,7 +6,7 @@ Generate Music using a open-source AI music generator by META, [MusicGen](https:
 Within your Pull Request, mention the prompt and configurations used to generate the Music. As such a music representation is subjective,
 we'll have judges who will pick the best best and they will be accepted.
 
-Submit your `song` and `prompt` in a folder named as `yourname_AI_Music_Song` and `yourname_AI_Music_Prompt` within `AI_Music_Submissions` folder.
+**Submit your `song` and `prompt` in files named as `yourname_AI_Music_Song` and `yourname_AI_Music_Prompt` within `AI_Music_Submissions` folder.**
 
 <br>
 
