@@ -1,6 +1,6 @@
 # Type 3 - Level 2 - Medium
 
-**Submit your code witgh file named as `yourname_ProblemNo._Level1` within `Level1` folder.**
+**Submit your code witgh file named as `yourname_ProblemNo._Level2` within `Level2` folder.**
 
 ## Problem 1: Letter Combinations of a phone number
 Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
