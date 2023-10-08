@@ -1,4 +1,7 @@
 # Type 3 - Level 3 - Hard
+
+**Submit your code witgh file named as `yourname_ProblemNo._Level3` within `Level3` folder.**
+
 ## Problem 1: The Mad Scientist
 
 A mad scientist is conducting an extremely delicate experiment that requires her to precisely control the temperature of the experiment. In front of her there are knobs which alter the temperature of this experiment (in Celcius). The scientist loves to turn knobs (they don’t call her mad for nothing), but she is also very careful and wants to make sure that the temperature never goes below 0 degrees or else the experiment will fail. The experiment starts at 0 degrees.
