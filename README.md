@@ -1,3 +1,6 @@
+![image](https://github.com/MU-Enigma/Hacktober23/assets/146672673/0047cde5-ece9-4c70-9446-bb36c65f21c9)
+
+
 # Hacktober23
 ## Resources
 tbd
