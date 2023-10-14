@@ -2,8 +2,12 @@
 
 
 # Hacktoberfest23
+- Hacktoberfest is DigitalOcean’s annual event that encourages people to contribute to open source throughout October.
+- Enigma every year hosts a repository for helping to students to start their Open Source contributing journey.
+- You mark completion of the event by **4 successful contributions** (i.e. when 4 of your Pull Requests are accepted)
+
 ## Resources
-tbd
+ - cheat sheet : [hf10_git_cheat_sheet.pdf](https://github.com/MU-Enigma/Hacktober23/blob/59f623b2c36d7be21421c8614109491847f512a7/assests/hf10_git_cheat_sheet.pdf)
 
 ## Problem Types
 ### Type 1
