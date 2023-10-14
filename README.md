@@ -20,6 +20,10 @@ tbd
 - Programming Problems involving DSA questions
 
 ## How to Contribute
+
+***[IMPORTANT] Before contributing please register on <https://hacktoberfest.com/> with your github account such that your pull requests are tracked and can earn you your perks.***
+<br>
+
 ### 1.Creating Fork
 **1.1. Fork the Repository.**
 <br><br>
@@ -65,7 +69,8 @@ tbd
 <br><br>
 
 ***IMPORTANT***<br>
-always remember to open at ***Hacktober23 folder location*** before running other git commands like `status, add, commit, push, pull`.
+- always remember to open at ***Hacktober23 folder location*** before running other git commands like `status, add, commit, push, pull`.
+- you can do that by using `cd <path>` (eg given below)
 <br>
 <br>
 
